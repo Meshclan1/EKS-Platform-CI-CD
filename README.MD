@@ -18,7 +18,7 @@ This project implements a production-style container platform on AWS using:
 
 The platform enables secure and repeatable deployments of containerised workloads across environments.
 
-❗️ **Developer Push - GitHub Actions - Build Docker Image - Push Image → Amazon ECR - Update Deployment → EKS - Kubernetes rollout**
+❗️ **Developer Push → GitHub Actions → Build Docker Image - Push Image → Amazon ECR → Update Deployment → EKS → Kubernetes rollout**
 
 ## 🏗️ 3. Architecture
 
