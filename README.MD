@@ -1,6 +1,6 @@
 # EKS Platform CI/CD
 
-**_Production-ready Kubernetes container platform on AWS using Terraform, EKS, Docker and GitHub Actions with automated CI/CD and GitOps-style deployments._**
+_Production-ready Kubernetes container platform on AWS using Terraform, EKS, Docker and GitHub Actions with automated CI/CD and GitOps-style deployments._
 
 ## 🚩 1. Problem
 
