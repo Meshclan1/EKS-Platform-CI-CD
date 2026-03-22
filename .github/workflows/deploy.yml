@@ -45,3 +45,5 @@ jobs:
       - name: Deploy
         run: |
           kubectl apply -f kubernetes/
+
+### For this workflow to work securely with OIDC, you must create an IAM role that GitHub can assume, and that role needs permissions for both ECR and EKS (and indirectly Kubernetes access).
